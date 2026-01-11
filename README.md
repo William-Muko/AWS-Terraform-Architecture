@@ -85,5 +85,5 @@ This project is licensed under the MIT License, see the [LICENSE](LICENSE) file 
 This infrastructure is for **educational and demonstration purposes**. Always review best practices for security and cost optimization before deploying anything to a production environment.
 
 ```
-Happy Building! 🤪
+Happy Building! 🤪 Go touch some grass now!😂
 ```
